@@ -23,7 +23,6 @@ const Doctors = () => {
 				))}
 			</div>
 			<div>
-				{/* <h1>cart : count = {count.length}</h1> */}
 				<DoctorAdded count={count} />
 			</div>
 		</div>

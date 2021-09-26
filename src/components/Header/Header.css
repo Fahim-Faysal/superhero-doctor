@@ -1,5 +1,8 @@
 .header{
-      background-color: lightgrey;
+      background-color: lightcyan;
+      width: 75%;
+      margin: auto;
       color: green;
       border: 2px solid olive;
+      border-radius: 15px;
 }
