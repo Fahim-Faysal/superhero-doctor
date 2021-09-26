@@ -1,11 +1,14 @@
 .display{
+      
       display:flex;
       grid-template-columns: repeat(3,1fr);
+      margin: 5px;
      
 }
 .doctors-container{
       width: 300px;
       height: 500px;
+      border-radius: 10px;
       background-color: rgba(135, 206, 250, 0.575);
       text-align: center;
       margin: 15px;
@@ -20,12 +23,12 @@
       
 }
 .doctors-container button{
-      background-color: green;
+      background-color: rgba(255, 0, 0, 0.76);
       border: 1px solid gray;
       padding: 10px;
       width: 200px;
       color: white;
 }
 .appoinment{
-      color:rgb(194, 62, 45);
+      color:white;
 }

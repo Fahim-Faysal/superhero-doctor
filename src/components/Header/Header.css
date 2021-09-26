@@ -1,7 +1,9 @@
 .header{
       background-color: lightcyan;
       width: 75%;
-      margin: auto;
+      /* margin-left:  18px;
+       */
+       margin: auto;
       color: green;
       border: 2px solid olive;
       border-radius: 15px;

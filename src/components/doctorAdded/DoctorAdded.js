@@ -13,7 +13,7 @@ const DoctorAdded = (props) => {
 		<div>
 			<div className="fees-details">
 				<h2>Doctor Selected : {props.count.length}</h2>
-				<h3>Total Fees : {total}</h3>
+				<h3>Total Fees : ${total}</h3>
 				{details.map((dname) => <h5> Selected Doctors : {dname.name}</h5>)}
 			</div>
 		</div>
